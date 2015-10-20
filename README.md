@@ -14,4 +14,5 @@ Wang, J., J. Emile-Geay, D. Guillot, J.E. Smerdon, and B. Rajaratnam, 2014: Eval
 
 Smerdon, J.E., A. Kaplan, D. Chang, and M.N. Evans, 2010:  A pseudoproxy evaluation of the CCA and RegEM methods for reconstructing climate fields of the last millennium, J. Climate, 23, 4856-4880.   http://rainbow.ldeo.columbia.edu/~alexeyk/Papers/Smerdon_etal2010CCApblshd.pdf
 
+Please cite the following DOI when you use the code:
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.32089.svg)](http://dx.doi.org/10.5281/zenodo.32089)
